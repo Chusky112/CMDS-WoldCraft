@@ -1,2 +1,2 @@
 # CMDS-WoldCraft
-New PLugin
+New Plugin
